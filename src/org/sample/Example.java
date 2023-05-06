@@ -9,4 +9,8 @@ public class Example {
 	public void tc2() {
 		System.out.println("jack");
 	}
+	
+	private void tc3() {
+		System.out.println("soyattu");
+	}
 }
