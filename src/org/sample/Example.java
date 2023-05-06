@@ -9,4 +9,8 @@ public class Example {
 	public void tc2() {
 		System.out.println("jack");
 	}
+	
+	public static void main(String[] args) {
+		System.out.println("soyattu");
+	}
 }
