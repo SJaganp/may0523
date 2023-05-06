@@ -10,7 +10,8 @@ public class Example {
 		System.out.println("jack");
 	}
 	
-	public static void main(String[] args) {
+	private void t3() {
+
 		System.out.println("soyattu");
 	}
 }
